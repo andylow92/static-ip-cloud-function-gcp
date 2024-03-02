@@ -23,7 +23,8 @@ Before executing the Terraform scripts, ensure you have set up a service account
 
     Terraform Initialization:
 
-    bash
+    terraform init
+
 
 terraform init
 
@@ -31,15 +32,13 @@ This command initializes the Terraform environment, preparing it to execute your
 
 Terraform Planning:
 
-bash
-
 terraform plan
+
 
 The plan command displays the actions Terraform will perform based on the scripts you've written. This step is crucial for reviewing changes before they are applied.
 
 Terraform Apply:
 
-bash
 
     terraform apply
 
