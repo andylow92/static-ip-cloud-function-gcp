@@ -1,4 +1,4 @@
-GCP Cloud Router and Cloud NAT Setup with Terraform
+GCP Cloud Router and Cloud NAT Setup with Terraform: https://medium.com/@aalc928/securing-your-cloud-function-with-a-static-ip-address-google-cloud-8b78307b86f8
 
 This tutorial provides a comprehensive guide on setting up Cloud Router and Cloud NAT in the Google Cloud Platform (GCP) using Terraform. By following this tutorial, you'll learn how to configure and deploy Cloud Router to manage network traffic flow effectively and set up Cloud NAT to allow internet access for instances with private IP addresses within your Virtual Private Cloud (VPC) network.
 Topics Covered
